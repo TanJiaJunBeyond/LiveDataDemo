@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LiveDataDemo</string>
+
+    <string name="navigate_to_second_fragment">导航到SecondFragment</string>
+    <string name="change_first_content">改变第一个文本</string>
+    <string name="change_second_content">改变第二个文本</string>
+    <string name="first_content_changed">第一个文本已改变</string>
+    <string name="second_content_changed">第二个文本已改变</string>
+
+</resources>
