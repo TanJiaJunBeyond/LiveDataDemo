@@ -8,6 +8,9 @@ import com.tanjiajun.livedatademo.FRAGMENT_TAG_FIRST
 import com.tanjiajun.livedatademo.R
 import com.tanjiajun.livedatademo.fragment.FirstFragment
 
+/**
+ * Created by TanJiaJun on 2019-12-22.
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var manager: FragmentManager
